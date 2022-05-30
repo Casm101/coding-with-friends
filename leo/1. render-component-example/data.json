@@ -1,0 +1,19 @@
+{
+	"name": "Christian",
+	"surname": "Smith Mantas",
+	"dob": "12/05/1998",
+	"accounts": {
+		"0": {
+			"accNumber": "ES4601824284150201638413",
+			"accState": "active"
+		},
+		"1": {
+			"accNumber": "ES4601824288465121638987",
+			"accState": "inactive"
+		},
+		"2": {
+			"accNumber": "ES4987521288465132154764",
+			"accState": "inactive"
+		}
+	}
+}
